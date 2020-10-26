@@ -27,3 +27,6 @@ The developed schema also have the cross-panel highlighting ability.
 Text Description
 After gazing at the info button which is placed to the lower right of each image 
 the correspondig habitat and behavior description of the animal will be shown
+
+A link to the output can be found here
+https://drive.google.com/file/d/1kzEJC6bUfVUQGHVtSUmaYV2FjFuRnC84/view?usp=sharing
