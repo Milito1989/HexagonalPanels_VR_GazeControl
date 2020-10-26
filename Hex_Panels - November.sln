@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex_Panels - November", "Hex_Panels - November.csproj", "{F1D6E699-E087-8BFB-7C21-EF8F897A807D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex_Panels - November.Editor", "Hex_Panels - November.Editor.csproj", "{957BFDDD-7AE1-AC35-295C-4B908FFDA664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D6E699-E087-8BFB-7C21-EF8F897A807D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D6E699-E087-8BFB-7C21-EF8F897A807D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D6E699-E087-8BFB-7C21-EF8F897A807D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D6E699-E087-8BFB-7C21-EF8F897A807D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957BFDDD-7AE1-AC35-295C-4B908FFDA664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957BFDDD-7AE1-AC35-295C-4B908FFDA664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957BFDDD-7AE1-AC35-295C-4B908FFDA664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957BFDDD-7AE1-AC35-295C-4B908FFDA664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

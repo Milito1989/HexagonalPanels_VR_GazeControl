@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pick + Panel", "Pick + Panel.csproj", "{2C9F83DB-E241-F49F-4B21-E9AF063C7ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pick + Panel.Editor", "Pick + Panel.Editor.csproj", "{50FE17DC-E102-BACF-BF41-66CE127A9BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9F83DB-E241-F49F-4B21-E9AF063C7ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9F83DB-E241-F49F-4B21-E9AF063C7ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9F83DB-E241-F49F-4B21-E9AF063C7ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9F83DB-E241-F49F-4B21-E9AF063C7ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FE17DC-E102-BACF-BF41-66CE127A9BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FE17DC-E102-BACF-BF41-66CE127A9BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FE17DC-E102-BACF-BF41-66CE127A9BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FE17DC-E102-BACF-BF41-66CE127A9BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

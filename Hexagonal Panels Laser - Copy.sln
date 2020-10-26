@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal Panels Laser - Copy", "Hexagonal Panels Laser - Copy.csproj", "{26B09CB9-2DCE-C4B4-B3DC-7AA94A45966B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal Panels Laser - Copy.Editor", "Hexagonal Panels Laser - Copy.Editor.csproj", "{BE0D360B-1431-150B-0674-EE516D7ACA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B09CB9-2DCE-C4B4-B3DC-7AA94A45966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B09CB9-2DCE-C4B4-B3DC-7AA94A45966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B09CB9-2DCE-C4B4-B3DC-7AA94A45966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B09CB9-2DCE-C4B4-B3DC-7AA94A45966B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0D360B-1431-150B-0674-EE516D7ACA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0D360B-1431-150B-0674-EE516D7ACA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0D360B-1431-150B-0674-EE516D7ACA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0D360B-1431-150B-0674-EE516D7ACA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

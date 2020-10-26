@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 2 - Pick Up Objects", "Tutorial 2 - Pick Up Objects.csproj", "{C9D4AFA5-6085-5CA8-6791-FCFD6B148E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 2 - Pick Up Objects.Editor", "Tutorial 2 - Pick Up Objects.Editor.csproj", "{89CC8E19-208A-1566-9DDB-D21A88A1BD25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D4AFA5-6085-5CA8-6791-FCFD6B148E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D4AFA5-6085-5CA8-6791-FCFD6B148E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D4AFA5-6085-5CA8-6791-FCFD6B148E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D4AFA5-6085-5CA8-6791-FCFD6B148E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CC8E19-208A-1566-9DDB-D21A88A1BD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CC8E19-208A-1566-9DDB-D21A88A1BD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CC8E19-208A-1566-9DDB-D21A88A1BD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CC8E19-208A-1566-9DDB-D21A88A1BD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

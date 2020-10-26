@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<header>
+	<thumbnail>090/thumbnail.jpg</thumbnail>
+	<artist>Balthasar Permoser (1651-1732) </artist>
+	<title>Herzog Anton Ulrich von Braunschweig-Lüneburg (vor 1710)</title>
+	<misc>Alabaster, Höhe: 76 cm, Höhe mit Sockel: 99 cm, Breite: 65 cm, Tiefe: 45 cm</misc>
+	<description>
+		Diese Büste stellt Herzog Anton Ulrich als abgeklärten Herrscher dar. Unter einer gewaltigen Perücke ist sein Blick nach oben und in die Ferne gerichtet, ein leichtes Lächeln umspielt seine Mundwinkel.
+	</description>
+</header>
+
+<card src="090/090_artist.xml"/>
+
+<card src="090/090_dargestellte.xml"/>
+
+<card src="090/090_thema.xml"/>
+
+<card src="090/090_details.xml"/>
+
+<card src="090/090_thema2.xml"/>
+
+
+
+<!-- <card src="090/090_technik.xml"/> -->
+
+
+
+</data>

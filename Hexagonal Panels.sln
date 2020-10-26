@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal Panels", "Hexagonal Panels.csproj", "{B12C7EA3-5833-9933-6D9F-6F7A1D185C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal Panels.Editor", "Hexagonal Panels.Editor.csproj", "{EA2A3304-6EC0-6EAC-45DD-3A038C28937E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12C7EA3-5833-9933-6D9F-6F7A1D185C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12C7EA3-5833-9933-6D9F-6F7A1D185C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12C7EA3-5833-9933-6D9F-6F7A1D185C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12C7EA3-5833-9933-6D9F-6F7A1D185C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2A3304-6EC0-6EAC-45DD-3A038C28937E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2A3304-6EC0-6EAC-45DD-3A038C28937E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2A3304-6EC0-6EAC-45DD-3A038C28937E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2A3304-6EC0-6EAC-45DD-3A038C28937E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

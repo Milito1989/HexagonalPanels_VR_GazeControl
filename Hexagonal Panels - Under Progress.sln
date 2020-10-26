@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal Panels - Under Progress", "Hexagonal Panels - Under Progress.csproj", "{F7135A47-B093-88E4-1056-2F7DD5A125E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal Panels - Under Progress.Editor", "Hexagonal Panels - Under Progress.Editor.csproj", "{BFBF0AA8-351A-0A75-E5F4-06CBFB6C8E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7135A47-B093-88E4-1056-2F7DD5A125E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7135A47-B093-88E4-1056-2F7DD5A125E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7135A47-B093-88E4-1056-2F7DD5A125E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7135A47-B093-88E4-1056-2F7DD5A125E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBF0AA8-351A-0A75-E5F4-06CBFB6C8E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBF0AA8-351A-0A75-E5F4-06CBFB6C8E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBF0AA8-351A-0A75-E5F4-06CBFB6C8E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBF0AA8-351A-0A75-E5F4-06CBFB6C8E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
